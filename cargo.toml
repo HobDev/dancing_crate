@@ -1,12 +1,12 @@
 [package]
-name = "hello_world"
+name = "Test_project"
 version = "0.2.2"
 authors = ["paramjit"]
 license ="MIT/Apache-2.0"
 readme="README.md"
 repository="https://github.com/HobDev/iot_hub"
 description="""
-IOT management software in its pre alpha phase.
+TEST Project
 """
 
 
