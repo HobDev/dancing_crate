@@ -6,5 +6,5 @@ mod tests {
     }
 }
 pub fn showversion() {
-    println!("I am version 0.2.3");
+    println!("I am version 0.2.4");
 }
