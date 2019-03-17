@@ -1,6 +1,6 @@
 [package]
 name = "dancing_crate"
-version = "0.2.2"
+version = "0.2.3"
 authors = ["paramjit"]
 license ="MIT/Apache-2.0"
 readme="README.md"
