@@ -1,5 +1,5 @@
 [package]
-name = "my_crate"
+name = "dancing_crate"
 version = "0.2.2"
 authors = ["paramjit"]
 license ="MIT/Apache-2.0"
